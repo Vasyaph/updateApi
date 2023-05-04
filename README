@@ -1,0 +1,11 @@
+Программа створенна за завданням, але є деякі речі які не зовсім зрозумілі тому я їх обійшов
+1)В завданні сказано що програма повинна оновлювати данні зі стороннього сервісу.
+Я не зрозумів чи повинна программа додавати значення з сторонньої бази чи просто видаляти старі данні та заносити нові
+2)Нічого не будо сказано про додавання та оновлення нових данних. і оскільки цей єтап міг конфліктувати з 1 етапом то я не робив update та create методи
+3) Я додав сортування ще до пару пунктів, але гадаю що тут нічого страшного немає
+
+The program was created according to the assignment, but there are some things that are not quite clear, so I avoided them
+1) The task says that the program should update data from a external service.
+I didn't understand whether the program should add values from a external database or just delete old data and add new ones
+2) Nothing was said about adding and updating new data. and since this stage could conflict with stage 1, I did not do update and create methods
+3) I added sorting to a couple more items, but I think it's not a big deal
